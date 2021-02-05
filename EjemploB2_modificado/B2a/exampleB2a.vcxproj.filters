@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\B2\B2a\exampleB2a.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\B2\B2a\src\B2ActionInitialization.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\B2\B2a\src\B2EventAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\B2\B2a\src\B2PrimaryGeneratorAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\B2\B2a\src\B2RunAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\B2\B2a\src\B2TrackerHit.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\B2\B2a\src\B2TrackerSD.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\B2\B2a\src\B2aDetectorConstruction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\B2\B2a\src\B2aDetectorMessenger.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\B2\B2a\include\B2ActionInitialization.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\B2\B2a\include\B2EventAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\B2\B2a\include\B2PrimaryGeneratorAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\B2\B2a\include\B2RunAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\B2\B2a\include\B2TrackerHit.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\B2\B2a\include\B2TrackerSD.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\B2\B2a\include\B2aDetectorConstruction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\B2\B2a\include\B2aDetectorMessenger.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="\Users\Andrea\Documents\EjemplosG4\B2\B2a\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1A476794-4C12-3AAC-B455-70FD0530AD87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EDAFD4DA-F7A9-325D-A7B4-3C7744DCF2CD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
