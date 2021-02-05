@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\A2\exampleB1.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\A2\src\ActionInitialization.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\A2\src\DetectorConstruction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\A2\src\EventAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\A2\src\PrimaryGeneratorAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\A2\src\RunAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\A2\src\SteppingAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\A2\include\ActionInitialization.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\A2\include\DetectorConstruction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\A2\include\EventAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\A2\include\PrimaryGeneratorAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\A2\include\RunAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\A2\include\SteppingAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="\Users\Andrea\Documents\EjemplosG4\A2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{69317E74-4210-31B4-B1D0-84A62BD57417}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A51A4F31-0133-34F0-A6F2-FFEB56A0BE38}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
