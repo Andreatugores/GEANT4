@@ -1,0 +1,4 @@
+C:/Users/Andrea/Documents/EjemplosG4/B2/B2a/CMakeFiles/INSTALL.dir
+C:/Users/Andrea/Documents/EjemplosG4/B2/B2a/CMakeFiles/exampleB2a.dir
+C:/Users/Andrea/Documents/EjemplosG4/B2/B2a/CMakeFiles/ALL_BUILD.dir
+C:/Users/Andrea/Documents/EjemplosG4/B2/B2a/CMakeFiles/ZERO_CHECK.dir
