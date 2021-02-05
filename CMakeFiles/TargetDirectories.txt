@@ -1,5 +1,0 @@
-C:/Users/Andrea/Documents/EjemplosG4/B1/CMakeFiles/INSTALL.dir
-C:/Users/Andrea/Documents/EjemplosG4/B1/CMakeFiles/exampleB1.dir
-C:/Users/Andrea/Documents/EjemplosG4/B1/CMakeFiles/B1.dir
-C:/Users/Andrea/Documents/EjemplosG4/B1/CMakeFiles/ALL_BUILD.dir
-C:/Users/Andrea/Documents/EjemplosG4/B1/CMakeFiles/ZERO_CHECK.dir
