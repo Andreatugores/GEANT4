@@ -1,0 +1,10 @@
+^C:\USERS\ANDREA\DOCUMENTS\EJEMPLOSG4\DOSE_SPHERE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -S/Users/Andrea/Documents/EjemplosG4/dose_sphere -BC:/Users/Andrea/Documents/EjemplosG4/dose_sphere --check-stamp-file C:/Users/Andrea/Documents/EjemplosG4/dose_sphere/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
