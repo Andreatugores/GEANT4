@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\dose_sphere\dose_sphere.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\dose_sphere\src\ActionInitialization.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\dose_sphere\src\DetectorConstruction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\dose_sphere\src\EventAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\dose_sphere\src\PrimaryGeneratorAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\dose_sphere\src\RunAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\Users\Andrea\Documents\EjemplosG4\dose_sphere\src\SteppingAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\dose_sphere\include\ActionInitialization.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\dose_sphere\include\DetectorConstruction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\dose_sphere\include\EventAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\dose_sphere\include\PrimaryGeneratorAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\dose_sphere\include\RunAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\Users\Andrea\Documents\EjemplosG4\dose_sphere\include\SteppingAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="\Users\Andrea\Documents\EjemplosG4\dose_sphere\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C1D27922-D21C-3EEB-BBA7-DE484B09BE26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0EC0D7C0-1623-3CEB-91EB-96BE7A816802}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

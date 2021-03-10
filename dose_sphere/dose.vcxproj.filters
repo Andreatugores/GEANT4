@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Andrea\Documents\EjemplosG4\dose_sphere\CMakeFiles\8a8b75133e2e647c6ee4f25034fde998\dose.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="\Users\Andrea\Documents\EjemplosG4\dose_sphere\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Andrea\Documents\EjemplosG4\dose_sphere\CMakeFiles\dose" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6269FE8B-3B00-31E9-9211-DC87860D34BE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
